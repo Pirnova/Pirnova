@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirnova" alt="pirnova" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Blan - App**
+- 👯 I’m working on collaborating project  **Blan - App**
 
 - 📫 How to reach me **Noukhalh@gmail.com**
 
